@@ -1,2 +1,2 @@
 # gerentepessoal
-Um gerenciador pessoal.
+Um gerenciador pessoal e muito prático de usar.
